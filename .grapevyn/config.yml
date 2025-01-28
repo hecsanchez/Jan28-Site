@@ -1,12 +1,12 @@
-
 name: Jan28 Site
 version: 1.0.0
 meta:
   createdAt: 2025-01-28T20:47:53.461Z
   updatedAt: 2025-01-28T20:47:53.461Z
-  author: ""
-  description: ""
+  author: ''
+  description: ''
 pages:
   - id: home
     name: Home
     path: /
+customDomain: test.grapevyn.app
